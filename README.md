@@ -1,5 +1,15 @@
 # Language-Translator-Project
-This project focuses on building a multilingual language translation system using Meta’s NLLB-200 model and a Gradio interface, enabling translation across more than 200 global languages.This translation tool is designed to be efficient, scalable, and highly adaptable, making it suitable for academic use, multilingual communication, and future expansion.A user-friendly Gradio interface is integrated to enable easy text input, language selection, and real-time translation output, making the system accessible to all users.A comprehensive language map of 204 languages is implemented, enabling precise mapping between readable language names and their internal model codes.
+This project focuses on building a multilingual language translation system using Meta’s NLLB-200 model and a Gradio interface, enabling translation across more than 200 global languages.NLLB is a state-of-the-art multilingual AI model developed by Meta AI that can translate 200+ languages with high accuracy, including low-resource languages that are usually underrepresented in machine translation.
+
+
+
+
+This translation tool is designed to be efficient, scalable, and highly adaptable, making it suitable for academic use, multilingual communication, and future expansion.A user-friendly Gradio interface is integrated to enable easy text input, language selection, and real-time translation output, making the system accessible to all users.The system integrates a transformer-based encoder–decoder architecture that understands context, grammar, and semantics, producing natural translations instead of word-to-word outputs.
+
+
+
+
+A comprehensive language map of 204 languages is implemented, enabling precise mapping between readable language names and their internal model codes.t demonstrates how modern NLP models can be deployed efficiently within a lightweight UI, allowing even non-technical users to access advanced machine translation technology.The project highlights the importance of low-resource language support, as NLLB-200 is specifically designed to translate underrepresented languages with better quality than traditional models.
 
 
 
